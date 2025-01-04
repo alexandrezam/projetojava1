@@ -11,6 +11,8 @@ public class pessoa {
 	
 	private Date dataNascimento;
 	
+	private Date dataCadastro
+	
 	
 	public Date getDataNascimento() {
 		return dataNascimento;
